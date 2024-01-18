@@ -1,2 +1,1 @@
-# numerical-linear-algebra-lab
-Numerical Linear Algebra course laboratory exercises.
+https://www.fer.unizg.hr/predmet/nla
